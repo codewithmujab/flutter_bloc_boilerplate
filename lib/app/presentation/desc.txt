@@ -1,0 +1,11 @@
+Logika bisnis
+Lapisan Logika Bisnis (Blok) mengelola peristiwa dan status aplikasi , 
+untuk setiap peristiwa atau aktivitas yang terjadi pada aplikasi, 
+suatu keadaan dirender. Setiap tindakan yang dilakukan pengguna dianggap sebagai 
+suatu peristiwa (mengetik, menekan tombol, membuka aplikasi) di mana keadaan akan 
+dikeluarkan untuk peristiwa tertentu untuk memperbarui tampilan (lapisan presentasi).
+
+=============
+Lapisan Presentasi
+Lapisan presentasi juga disebut sebagai tampilan yang merender dirinya sendiri 
+berdasarkan keadaan yang dipancarkan dari suatu Blok sehubungan dengan suatu peristiwa.

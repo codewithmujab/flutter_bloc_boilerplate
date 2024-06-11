@@ -1,0 +1,2 @@
+Repositori: Repositori mengelola data mentah yang disediakan oleh lapisan 
+penyedia data. Lapisan Blok (Logika Bisnis) berkomunikasi dengan repositori.

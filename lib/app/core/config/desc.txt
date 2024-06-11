@@ -1,0 +1,2 @@
+api service/data provider: Penyedia data menyediakan komunikasi langsung ke sumber data. 
+Biasanya Metode HTTP dikelola di sini (POST, PUT, UPDATE, DELETE)

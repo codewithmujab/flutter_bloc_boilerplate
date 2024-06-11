@@ -1,0 +1,3 @@
+Model: Model adalah kelas yang membantu menentukan struktur data. 
+Sebuah model dapat ditulis untuk mencerminkan database. Bisa juga disebut 
+sebagai templat data yang diterima dan dikirim dari aplikasi.
