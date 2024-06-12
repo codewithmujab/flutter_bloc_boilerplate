@@ -25,7 +25,3 @@ and font_awesome_flutter. Uses latest version of flutter (3.1.3), flutter_bloc (
 ![ScreenShot](https://raw.github.com/rahuljograna/flutter_bloc_boilerplate_api_crud/master/boilerplate_assets/8.png)
 ![ScreenShot](https://raw.github.com/rahuljograna/flutter_bloc_boilerplate_api_crud/master/boilerplate_assets/9.png)
 ![ScreenShot](https://raw.github.com/rahuljograna/flutter_bloc_boilerplate_api_crud/master/boilerplate_assets/10.png)
- 
-## Contributing
-
-PRs are welcome
